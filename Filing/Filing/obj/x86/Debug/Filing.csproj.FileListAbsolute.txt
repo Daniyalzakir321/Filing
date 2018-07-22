@@ -1,0 +1,24 @@
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\bin\Debug\Filing.exe
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\bin\Debug\Filing.pdb
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\Filing.Form1.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\Filing.Form2.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\Filing.Properties.Resources.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\Filing.exe
+c:\users\daniyal\documents\visual studio 2010\Projects\Filing\Filing\obj\x86\Debug\Filing.pdb
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.exe
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.pdb
+E:\Project of to write in cd\Filing\Filing\bin\Debug\Filing.exe.manifest
+E:\Project of to write in cd\Filing\Filing\bin\Debug\Filing.application
+E:\Project of to write in cd\Filing\Filing\bin\Debug\Filing.exe
+E:\Project of to write in cd\Filing\Filing\bin\Debug\Filing.pdb
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.Form1.resources
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.Form2.resources
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.Properties.Resources.resources
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.exe.manifest
+E:\Project of to write in cd\Filing\Filing\obj\x86\Debug\Filing.application
